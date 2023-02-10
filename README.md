@@ -6,7 +6,7 @@ In this project, I worked on a real-world dataset of the google play store, one 
 
 This project helped me understand how a real-world database is analyzed using SQL, how to get maximum available insights from the dataset, pre-process the data using Excel for a better upcoming performance, how a structured query language helps us retrieve useful information from the database, and visualize the data with the bi tool.
 
-#The Project will consist of 2 modules:
+#The Project will consist of:
 Pre-processing using Excel
 Analyzing data using  SQL.
 Visualizing data using  Tableau tool.
