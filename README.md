@@ -10,3 +10,10 @@ The Project will consist of:
 Pre-processing using Excel,
 Analyzing data using  SQL.
 Visualizing data using  Tableau tool.
+
+
+Here is the link to the cleaning process article
+https://medium.com/@ogbozorracheal/data-cleaning-in-excel-d521e0950de6
+
+And here is the link to the tableau visuals
+https://public.tableau.com/app/profile/racheal.ogbozor1965/viz/Playstoredashboardfortheyear2010-2018datasets/Dashboard1
