@@ -15,5 +15,8 @@ Visualizing data using  Tableau tool.
 Here is the link to the cleaning process article
 https://medium.com/@ogbozorracheal/data-cleaning-in-excel-d521e0950de6
 
+Here is the link to EDA article
+https://medium.com/@ogbozorracheal/6a5b04c9d09d
+
 And here is the link to the tableau visuals
 https://public.tableau.com/app/profile/racheal.ogbozor1965/viz/Playstoredashboardfortheyear2010-2018datasets/Dashboard1
