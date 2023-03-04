@@ -1,8 +1,10 @@
 # PLAYSTORE-DATA-ANALYSIS
-About the project:
-In this project, I worked on a real-world dataset of the google play store, one of the most used applications for downloading android apps. This project aims on cleaning the dataset, analyze the given dataset, and mining informational quality insights. This project also involves visualizing the data to better and easily understand trends and different categories.
 
-PROJECT DESCRIPTION
+## About the project:
+
+In this project, I worked on a real-world dataset of the google play store, one of the most used applications for downloading android apps. This project aims on cleaning the dataset, Data analysis, and mining quality information for better insights. This project also involves visualizing the data to better and easily understand trends and different categories.
+
+## Project description
 
 This project helped me understand how a real-world database is analyzed using SQL, how to get maximum available insights from the dataset, pre-process the data using Excel for a better upcoming performance, how a structured query language helps us retrieve useful information from the database, and visualize the data with the bi tool.
 
@@ -11,14 +13,14 @@ Pre-processing using Excel,
 Analyzing data using  SQL.
 Visualizing data using  Tableau tool.
 
-PRE-PROCESSING USING EXCEL:
+## Pre- processing using Excel
 
 Data cleaning is important in every data analysis to ensure that the data is converted from it  raw state to a useable state, so i made use of Excel tools and function to clean, organize and manipulate the data.This task includes sub-tasks such as handling null values, deletion or transformation of irrelevant values, data type transformation, removing duplicates, encoding the data into suitable format etc. 
   
 Here is the link to the cleaning process article
 https://medium.com/@ogbozorracheal/data-cleaning-in-excel-d521e0950de6
 
-ANALYZING DATA USING SQL
+## Analysing data using SQL
 
 Here are some question that the data set will help us answer;
 
@@ -50,8 +52,22 @@ Get the number of reviews having positive sentiment and number of reviews having
 
 14; Extract all negative sentiment reviews for Adobe Acrobat Reader with their sentiment polarity and sentiment subjectivity
 
-Here is the link to EDA article
+Here is the link to the EDA article
 https://medium.com/@ogbozorracheal/6a5b04c9d09d
 
 And here is the link to the tableau visuals
 https://public.tableau.com/app/profile/racheal.ogbozor1965/viz/Playstoredashboardfortheyear2010-2018datasets/Dashboard1
+
+# Conlusion and Recommendations 
+
+1  Playstore app generated over $367 million as revenue for the period of 2010 - 2018 with 146, 631 million total number of installs
+
+2  Free apps are the most installed apps therefore, there could be more of the free apps on the Google play store platform compared to the paid apps. Also, the paid     apps could be subsidized to be more affordable to the users.
+
+3 All apps on the goolge playstore could be made accessible by individuals regardless of the version of android phones their use since the android version with the most number of installs is that of " Varies with device".
+
+4 22% of the total Number of apps with negative sentiment, though the percentage is minimal but Google playstore could improve on the apps with such negative sentiment by 
+- checking if the apps have poor user experience. simplyfing the interface and even incorporating user testing process before making the apps available for download could be helpful.
+- cost and price of the apps. The negative sentiment could be due to the price of installing the app
+- the negative sentiment could be personal preferences.
+- inadequate customer supoort. these could make the user feel frustrated and leave a negative sentiment or review.
